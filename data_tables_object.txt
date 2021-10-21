@@ -1,3 +1,4 @@
+[
     {
         "name": "Patrick Nixon",
         "position": "System Architect",
@@ -454,3 +455,4 @@
         "office": "New York",
         "extn": "4226"
     }
+]
